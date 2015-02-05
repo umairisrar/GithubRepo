@@ -1,0 +1,4 @@
+C:\Users\Rohail\AppData\Local\Temporary Projects\Decompressor\bin\Release\Decompressor.exe
+C:\Users\Rohail\AppData\Local\Temporary Projects\Decompressor\bin\Release\Decompressor.pdb
+C:\Users\Rohail\AppData\Local\Temporary Projects\Decompressor\obj\x86\Release\Decompressor.exe
+C:\Users\Rohail\AppData\Local\Temporary Projects\Decompressor\obj\x86\Release\Decompressor.pdb
